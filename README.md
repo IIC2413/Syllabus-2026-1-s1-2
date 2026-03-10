@@ -143,7 +143,7 @@ La nota final del proyecto $P$ se calcula según:
 ```math
 P =
 \begin{cases}
-P \cdot 6 + 1, & \text{si } p \ge 60\% \\
+PP \cdot 6 + 1, & \text{si } p \ge 60\% \\
 1, & \text{si } p < 60\%
 \end{cases}
 ```
