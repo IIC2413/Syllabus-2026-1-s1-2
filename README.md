@@ -140,13 +140,13 @@ Asistencia | $f$
 c) Prueba final $p$ de logro de competencias. Para aprobar el proyecto, se debe obtener un puntaje >= 60% en esta prueba. 
 La nota final del proyecto $P$ se calcula según:
 
-$$
+```math
 P =
 \begin{cases}
-P = PP \cdot 6 + 1, & \text{si } p \ge 60\% \\
+P \cdot 6 + 1, & \text{si } p \ge 60\% \\
 1, & \text{si } p < 60\%
 \end{cases}
-$$
+```
 
 La nota de presentación al examen $(NP)$ se calculará como:
 
@@ -163,13 +163,13 @@ Se eximirán los estudiantes que cumplan todas las siguientes condiciones
 
 La nota final $(NF)$ se calcula como
 
-$$
+```math
 NF =
 \begin{cases}
 0{,}5 \cdot \bar{C} + 0{,}5 \cdot P, & \text{si } p \ge 60\% \\
-Min(\bar{C}, 3{,}9), & \text{en otro caso}
+\min(\bar{C}, 3{,}9), & \text{en otro caso}
 \end{cases}
-$$
+```
 
 El curso se aprueba si, y solo si, todas las siguiente condiciones se cumplen:
 
