@@ -116,7 +116,7 @@ Pendiente
 
 El promedio $\bar{C}$ de las evaluaciones de cátedra (I1, I2, Examen) se calcula según
 
-$\bar{C} = \frac{I1 + I2 + 0,3 \cdot T +  1,5 \cdot Examen}{3,5}$
+$\bar{C} = \frac{I1 + I2 + 1,5 \cdot Examen}{3,5}$
 
 La Nota del proyecto tiene 3 componentes: 
 
