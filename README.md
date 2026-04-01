@@ -13,6 +13,7 @@
   - [Calendario Evaluaciones](#calendario-evaluaciones)
     - [Cátedra](#cátedra)
     - [Proyecto (tentativo)](#proyecto-tentativo)
+    - [Ayudantías (tentativo)](#ayudantías-tentativo)
   - [Evaluación](#evaluación)
     - [Aprobación del curso](#aprobación-del-curso)
   - [Política de integridad académica](#política-de-integridad-académica)
@@ -106,7 +107,31 @@ Fecha                  | Hora | Evaluación
 
 Fecha                  | Evaluación
 -----------------------|------------
-Pendiente
+12 - 03 - 2026 (J) | Enunciado General
+01 - 04 - 2026 (W) | Enunciado E1
+20 - 04 - 2026 (L) | Entrega E1
+23 - 04 - 2026 (J) | Enunciado E2
+11 - 05 - 2026 (L) | Entrega E2
+14 - 05 - 2026 (J) | Enunciado E3
+08- 06 - 2026 (L) | Entrega E3
+24 - 06 - 2026 (W) | Prueba Proyecto 
+
+
+### Ayudantías (tentativo)
+Fecha                  | # Ayudantía | Tema
+-----------------------|------------|------
+13 - 03 - 2026 (V) | 1 | Álgebra relacional
+20 - 03 - 2026 (V) | 2 | Modelo ER
+27 - 03 - 2026 (V) | 3 | Formas Normales
+10- 04 - 2026 (V) | 4 | SQL
+17 - 04 - 2026 (V) | 5 | Ubuntu, PostgreSQL
+24 - 04 - 2026 (V) | 6 | Limpieza + IC
+29 - 04 - 2026 (W) | 7 | Repaso I1
+08 - 05 - 2026 (V) | 8 | Tx
+15 - 05 - 2026 (V) | 9 | PHP + Web
+29 - 05 - 2026 (V) | 10 | Por definir
+05 - 06 - 2026 (V) | 11 | Por definir
+10 - 06 - 2026 (W) | 12 | Repaso I2
 
 ---
 
