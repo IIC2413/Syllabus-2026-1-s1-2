@@ -7,7 +7,7 @@
   - [Equipo](#equipo)
     - [Profesores](#profesores)
     - [Cuerpo de ayudantes](#cuerpo-de-ayudantes)
-      - [Jefes](#jefes)
+      - [Coordinadores](#jefes)
       - [Ayudantes](#ayudantes)
     - [Bibliografía](#bibliografía)
   - [Calendario Evaluaciones](#calendario-evaluaciones)
