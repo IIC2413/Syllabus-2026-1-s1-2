@@ -7,7 +7,7 @@
   - [Equipo](#equipo)
     - [Profesores](#profesores)
     - [Cuerpo de ayudantes](#cuerpo-de-ayudantes)
-      - [Coordinadores](#jefes)
+      - [Coordinadores](#Coordinadores)
       - [Ayudantes](#ayudantes)
     - [Bibliografía](#bibliografía)
   - [Calendario Evaluaciones](#calendario-evaluaciones)
@@ -32,7 +32,7 @@ Christian Alvarez   | 2       | [cal@uc.cl]
 
 ### Cuerpo de ayudantes
 
-#### Jefes
+#### Coordinadores
 
 Nombre           | Rol                 | Email
 ---------------- |-------------------- | ----------------
