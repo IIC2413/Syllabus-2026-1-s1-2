@@ -126,7 +126,7 @@ Fecha                  | # Ayudantía | Tema
 10- 04 - 2026 (V) | 4 | SQL
 17 - 04 - 2026 (V) | 5 | Ubuntu, PostgreSQL
 24 - 04 - 2026 (V) | 6 | Limpieza + IC
-29 - 04 - 2026 (W) | 7 | Repaso I1
+06 - 05 - 2026 (W) | 7 | Repaso I1
 08 - 05 - 2026 (V) | 8 | Tx
 15 - 05 - 2026 (V) | 9 | PHP + Web
 29 - 05 - 2026 (V) | 10 | Por definir
