@@ -1,0 +1,29 @@
+run_persona,sucursal_nombre,nombre_cargo,fecha_inicio_cargo,fecha_termino_cargo,registro_incorrecto,tipo_error
+14443188-2,Santiago Centro,Gerente,01-01-2025,,SI,fecha
+20227807-8,Santiago Centro,Administrativo,2025-01-01,2025-05-20,NO,
+14177217-1,Santiago Centro,Auxiliar de Aseo,2025-01-01,2025-08-30,NO,
+23572340-7,Santiago Centro,Salvavidas,2025-11-01,,NO,
+15239062-9,Santiago Centro,Salvavidas,2026-01-01,,NO,
+15537181-1,Santiago Centro,Guardia de Seguridad,2025-03-01,,NO,
+8752286-0,Santiago Centro,Guardia de Seguridad,2025-04-15,2026-01-10,NO,
+24856952-3,Providencia,Administrativo,2025-01-01,2025-06-30,NO,
+23333409-K,Providencia,Gerente,2025-07-01,,NO,
+6149034-5,Providencia,Contador,2025-10-01,,SI,rut/cargo
+23438768-9,Providencia,Profesor de Tenis,2025-03-01,2025-06-01,NO,
+19344657-1,Providencia,Secretaria,15/05/2025,,SI,fecha
+5619901-5,Providencia,Auxiliar de Aseo,2025-01-15,,NO,
+21668644-7,Providencia,Auxiliar de Aseo,2025-02-01,2025-12-01,NO,
+22670227-5,La Florida,Gerente,2025-01-01,,NO,
+7568205-0,La Florida,TÃ©cnico en EnfermerÃ­a,2025-01-01,,NO,
+22282708-6,La Florida,Auxiliar de Aseo,2025-01-01,,SI,cargo_incorrecto
+11361267-3,La Florida,Personal de MantenciÃ³n,2025-02-01,,NO,
+23771678-0,La Florida,Personal de MantenciÃ³n,2025-05-10,2025-11-30,NO,
+24183297-K,La Florida,Guardia de Seguridad,2025-01-01,,NO,
+10532988-0,La Florida,Guardia de Seguridad,2025-06-01,,NO,
+14295834-7,Santa Cruz,Gerente,2025-01-01,2025-12-31,NO,
+11383074-5,Santa Cruz,Gerente,2026-01-01,,NO,
+17311895-4,Santa Cruz,Personal de MantenciÃ³n,2025-06-15,2025-12-15,NO,
+8199061-5,Santa Cruz,Profesor de Tenis,2025-07-01,,NO,
+7552228-1,Santa Cruz,Personal de MantenciÃ³n,2025-01-01,,NO,
+14188600-3,Santa Cruz,Secretaria,2025-01-01,,NO,
+16034924-7,Santa Cruz,Secretaria,2025-03-01,2025-09-15,NO,
