@@ -1,346 +1,346 @@
-﻿CODIGO COMUNA;NOMBRE COMUNA;REGION;NOMBRE REGIÓN 
-01101;Iquique;1;TARAPACÁ
-01107;Alto Hospicio;1;TARAPACÁ
-01401;Pozo Almonte;1;TARAPACÁ
-01402;Camiña;1;TARAPACÁ
-01403;Colchane;1;TARAPACÁ
-01404;Huara;1;TARAPACÁ
-01405;Pica;1;TARAPACÁ
-02101;Antofagasta;2;ANTOFAGASTA
-02102;Mejillones;2;ANTOFAGASTA
-02103;Sierra Gorda;2;ANTOFAGASTA
-02104;Taltal;2;ANTOFAGASTA
-02201;Calama;2;ANTOFAGASTA
-02202;Ollague;2;ANTOFAGASTA
-02203;San Pedro de Atacama;2;ANTOFAGASTA
-02301;Tocopilla;2;ANTOFAGASTA
-02302;María Elena;2;ANTOFAGASTA
-03101;Copiapó;3;ATACAMA
-03102;Caldera;3;ATACAMA
-03103;Tierra Amarilla;3;ATACAMA
-03201;Chañaral;3;ATACAMA
-03202;Diego de Almagro;3;ATACAMA
-03301;Vallenar;3;ATACAMA
-03302;Alto del Carmen;3;ATACAMA
-03303;Freirina;3;ATACAMA
-03304;Huasco;3;ATACAMA
-04101;La Serena;4;COQUIMBO
-04102;Coquimbo;4;COQUIMBO
-04103;Andacollo;4;COQUIMBO
-04104;La Higuera;4;COQUIMBO
-04105;Paihuano;4;COQUIMBO
-04106;Vicuña;4;COQUIMBO
-04201;Illapel;4;COQUIMBO
-04202;Canela;4;COQUIMBO
-04203;Los Vilos;4;COQUIMBO
-04204;Salamanca;4;COQUIMBO
-04301;Ovalle;4;COQUIMBO
-04302;Combarbalá;4;COQUIMBO
-04303;Monte Patria;4;COQUIMBO
-04304;Punitaqui;4;COQUIMBO
-04305;Río Hurtado;4;COQUIMBO
-05101;Valparaíso;5;VALPARAISO
-05102;Casablanca;5;VALPARAISO
-05103;Concón;5;VALPARAISO
-05104;Juan Fernández;5;VALPARAISO
-05105;Puchuncaví;5;VALPARAISO
-05107;Quintero;5;VALPARAISO
-05109;Viña del Mar;5;VALPARAISO
-05201;Isla de Pascua;5;VALPARAISO
-05301;Los Andes;5;VALPARAISO
-05302;Calle Larga;5;VALPARAISO
-05303;Rinconada;5;VALPARAISO
-05304;San Esteban;5;VALPARAISO
-05401;La Ligua;5;VALPARAISO
-05402;Cabildo;5;VALPARAISO
-05403;Papudo;5;VALPARAISO
-05404;Petorca;5;VALPARAISO
-05405;Zapallar;5;VALPARAISO
-05501;Quillota;5;VALPARAISO
-05502;Calera;5;VALPARAISO
-05503;Hijuelas;5;VALPARAISO
-05504;La Cruz;5;VALPARAISO
-05506;Nogales;5;VALPARAISO
-05601;San Antonio;5;VALPARAISO
-05602;Algarrobo;5;VALPARAISO
-05603;Cartagena;5;VALPARAISO
-05604;El Quisco;5;VALPARAISO
-05605;El Tabo;5;VALPARAISO
-05606;Santo Domingo;5;VALPARAISO
-05701;San Felipe;5;VALPARAISO
-05702;Catemu;5;VALPARAISO
-05703;Llay Llay;5;VALPARAISO
-05704;Panquehue;5;VALPARAISO
-05705;Putaendo;5;VALPARAISO
-05706;Santa María;5;VALPARAISO
-05801;Quilpué;5;VALPARAISO
-05802;Limache;5;VALPARAISO
-05803;Olmué;5;VALPARAISO
-05804;Villa Alemana;5;VALPARAISO
-06101;Rancagua;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06102;Codegua;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06103;Coinco;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06104;Coltauco;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06105;Doñihue;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06106;Graneros;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06107;Las Cabras;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06108;Machalí;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06109;Malloa;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06110;Mostazal;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06111;Olivar;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06112;Peumo;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06113;Pichidegua;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06114;Quinta de Tilcoco;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06115;Rengo;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06116;Requinoa;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06117;San Vicente;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06201;Pichilemu;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06202;La Estrella;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06203;Litueche;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06204;Marchihue;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06205;Navidad;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06206;Paredones;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06301;San Fernando;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06302;Chépica;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06303;Chimbarongo;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06304;Lolol;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06305;Nancagua;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06306;Palmilla;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06307;Peralillo;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06308;Placilla;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06309;Pumanque;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-06310;Santa Cruz;6;REGIÓN DEL LIBERTADOR GRAL. BERNARDO O HIGGINS
-07101;Talca;7;REGIÓN DEL MAULE
-07102;Constitución;7;REGIÓN DEL MAULE
-07103;Curepto;7;REGIÓN DEL MAULE
-07104;Empedrado;7;REGIÓN DEL MAULE
-07105;Maule;7;REGIÓN DEL MAULE
-07106;Pelarco;7;REGIÓN DEL MAULE
-07107;Pencahue;7;REGIÓN DEL MAULE
-07108;Río Claro;7;REGIÓN DEL MAULE
-07109;San Clemente;7;REGIÓN DEL MAULE
-07110;San Rafael;7;REGIÓN DEL MAULE
-07201;Cauquenes;7;REGIÓN DEL MAULE
-07202;Chanco;7;REGIÓN DEL MAULE
-07203;Pelluhue;7;REGIÓN DEL MAULE
-07301;Curicó;7;REGIÓN DEL MAULE
-07302;Hualañe;7;REGIÓN DEL MAULE
-07303;Licantén;7;REGIÓN DEL MAULE
-07304;Molina;7;REGIÓN DEL MAULE
-07305;Rauco;7;REGIÓN DEL MAULE
-07306;Romeral;7;REGIÓN DEL MAULE
-07307;Sagrada Familia;7;REGIÓN DEL MAULE
-07308;Teno;7;REGIÓN DEL MAULE
-07309;Vichuquén;7;REGIÓN DEL MAULE
-07401;Linares;7;REGIÓN DEL MAULE
-07402;Colbún;7;REGIÓN DEL MAULE
-07403;Longaví;7;REGIÓN DEL MAULE
-07404;Parral;7;REGIÓN DEL MAULE
-07405;Retiro;7;REGIÓN DEL MAULE
-07406;San Javier;7;REGIÓN DEL MAULE
-07407;Villa Alegre;7;REGIÓN DEL MAULE
-07408;Yerbas Buenas;7;REGIÓN DEL MAULE
-08101;Concepción;8;REGIÓN DEL BIOBÍO
-08102;Coronel;8;REGIÓN DEL BIOBÍO
-08103;Chiguayante;8;REGIÓN DEL BIOBÍO
-08104;Florida;8;REGIÓN DEL BIOBÍO
-08105;Hualqui;8;REGIÓN DEL BIOBÍO
-08106;Lota;8;REGIÓN DEL BIOBÍO
-08107;Penco;8;REGIÓN DEL BIOBÍO
-08108;San Pedro De La Paz;8;REGIÓN DEL BIOBÍO
-08109;Santa Juana;8;REGIÓN DEL BIOBÍO
-08110;Talcahuano;8;REGIÓN DEL BIOBÍO
-08111;Tomé;8;REGIÓN DEL BIOBÍO
-08112;Hualpén;8;REGIÓN DEL BIOBÍO
-08201;Lebu;8;REGIÓN DEL BIOBÍO
-08202;Arauco;8;REGIÓN DEL BIOBÍO
-08203;Cañete;8;REGIÓN DEL BIOBÍO
-08204;Contulmo;8;REGIÓN DEL BIOBÍO
-08205;Curanilahue;8;REGIÓN DEL BIOBÍO
-08206;Los Alamos;8;REGIÓN DEL BIOBÍO
-08207;Tirua;8;REGIÓN DEL BIOBÍO
-08301;Los Angeles;8;REGIÓN DEL BIOBÍO
-08302;Antuco;8;REGIÓN DEL BIOBÍO
-08303;Cabrero;8;REGIÓN DEL BIOBÍO
-08304;Laja;8;REGIÓN DEL BIOBÍO
-08305;Mulchén;8;REGIÓN DEL BIOBÍO
-08306;Nacimiento;8;REGIÓN DEL BIOBÍO
-08307;Negrete;8;REGIÓN DEL BIOBÍO
-08308;Quilaco;8;REGIÓN DEL BIOBÍO
-08309;Quilleco;8;REGIÓN DEL BIOBÍO
-08310;San Rosendo;8;REGIÓN DEL BIOBÍO
-08311;Santa Bárbara;8;REGIÓN DEL BIOBÍO
-08312;Tucapel;8;REGIÓN DEL BIOBÍO
-08313;Yumbel;8;REGIÓN DEL BIOBÍO
-08314;Alto Biobío;8;REGIÓN DEL BIOBÍO
-08401;Chillán;8;REGIÓN DEL BIOBÍO
-08402;Bulnes;8;REGIÓN DEL BIOBÍO
-08403;Cobquecura;8;REGIÓN DEL BIOBÍO
-08404;Coelemu;8;REGIÓN DEL BIOBÍO
-08405;Coihueco;8;REGIÓN DEL BIOBÍO
-08406;Chillán Viejo;8;REGIÓN DEL BIOBÍO
-08407;El Carmen;8;REGIÓN DEL BIOBÍO
-08408;Ninhue;8;REGIÓN DEL BIOBÍO
-08409;Ñiquén;8;REGIÓN DEL BIOBÍO
-08410;Pemuco;8;REGIÓN DEL BIOBÍO
-08411;Pinto;8;REGIÓN DEL BIOBÍO
-08412;Portezuelo;8;REGIÓN DEL BIOBÍO
-08413;Quillón;8;REGIÓN DEL BIOBÍO
-08414;Quirihue;8;REGIÓN DEL BIOBÍO
-08415;Ranquil;8;REGIÓN DEL BIOBÍO
-08416;San Carlos;8;REGIÓN DEL BIOBÍO
-08417;San Fabián;8;REGIÓN DEL BIOBÍO
-08418;San Ignacio;8;REGIÓN DEL BIOBÍO
-08419;San Nicolás;8;REGIÓN DEL BIOBÍO
-08420;Trehuaco;8;REGIÓN DEL BIOBÍO
-08421;Yungay;8;REGIÓN DEL BIOBÍO
-09101;Temuco;9; REGIÓN DE LA ARAUCANÍA
-09102;Carahue;9; REGIÓN DE LA ARAUCANÍA
-09103;Cunco;9; REGIÓN DE LA ARAUCANÍA
-09104;Curarrehue;9; REGIÓN DE LA ARAUCANÍA
-09105;Freire;9; REGIÓN DE LA ARAUCANÍA
-09106;Galvarino;9; REGIÓN DE LA ARAUCANÍA
-09107;Gorbea;9; REGIÓN DE LA ARAUCANÍA
-09108;Lautaro;9; REGIÓN DE LA ARAUCANÍA
-09109;Loncoche;9; REGIÓN DE LA ARAUCANÍA
-09110;Melipeuco;9; REGIÓN DE LA ARAUCANÍA
-09111;Nueva Imperial;9; REGIÓN DE LA ARAUCANÍA
-09112;Padre Las Casas;9; REGIÓN DE LA ARAUCANÍA
-09113;Perquenco;9; REGIÓN DE LA ARAUCANÍA
-09114;Pitrufquén;9; REGIÓN DE LA ARAUCANÍA
-09115;Pucón;9; REGIÓN DE LA ARAUCANÍA
-09116;Puerto Saavedra;9; REGIÓN DE LA ARAUCANÍA
-09117;Teodoro Schmidt;9; REGIÓN DE LA ARAUCANÍA
-09118;Toltén;9; REGIÓN DE LA ARAUCANÍA
-09119;Vilcún;9; REGIÓN DE LA ARAUCANÍA
-09120;Villarrica;9; REGIÓN DE LA ARAUCANÍA
-09121;Cholchol;9; REGIÓN DE LA ARAUCANÍA
-09201;Angol;9; REGIÓN DE LA ARAUCANÍA
-09202;Collipulli;9; REGIÓN DE LA ARAUCANÍA
-09203;Curacautín;9; REGIÓN DE LA ARAUCANÍA
-09204;Ercilla;9; REGIÓN DE LA ARAUCANÍA
-09205;Lonquimay;9; REGIÓN DE LA ARAUCANÍA
-09206;Los Sauces;9; REGIÓN DE LA ARAUCANÍA
-09207;Lumaco;9; REGIÓN DE LA ARAUCANÍA
-09208;Purén;9; REGIÓN DE LA ARAUCANÍA
-09209;Renaico;9; REGIÓN DE LA ARAUCANÍA
-09210;Traiguén;9; REGIÓN DE LA ARAUCANÍA
-09211;Victoria;9; REGIÓN DE LA ARAUCANÍA
-10101;Puerto Montt;10; REGIÓN DE LOS LAGOS
-10102;Calbuco;10; REGIÓN DE LOS LAGOS
-10103;Cochamó;10; REGIÓN DE LOS LAGOS
-10104;Fresia;10; REGIÓN DE LOS LAGOS
-10105;Frutillar;10; REGIÓN DE LOS LAGOS
-10106;Los Muermos;10; REGIÓN DE LOS LAGOS
-10107;Llanquihue;10; REGIÓN DE LOS LAGOS
-10108;Maullín;10; REGIÓN DE LOS LAGOS
-10109;Puerto Varas;10; REGIÓN DE LOS LAGOS
-10201;Castro;10; REGIÓN DE LOS LAGOS
-10202;Ancud;10; REGIÓN DE LOS LAGOS
-10203;Chonchi;10; REGIÓN DE LOS LAGOS
-10204;Curaco de Vélez;10; REGIÓN DE LOS LAGOS
-10205;Dalcahue;10; REGIÓN DE LOS LAGOS
-10206;Puqueldón;10; REGIÓN DE LOS LAGOS
-10207;Queilén;10; REGIÓN DE LOS LAGOS
-10208;Quellón;10; REGIÓN DE LOS LAGOS
-10209;Quemchi;10; REGIÓN DE LOS LAGOS
-10210;Quinchao;10; REGIÓN DE LOS LAGOS
-10301;Osorno;10; REGIÓN DE LOS LAGOS
-10302;Puerto Octay;10; REGIÓN DE LOS LAGOS
-10303;Purranque;10; REGIÓN DE LOS LAGOS
-10304;Puyehue;10; REGIÓN DE LOS LAGOS
-10305;Río Negro;10; REGIÓN DE LOS LAGOS
-10306;San Juan de la Costa;10; REGIÓN DE LOS LAGOS
-10307;San Pablo;10; REGIÓN DE LOS LAGOS
-10401;Chaitén;10; REGIÓN DE LOS LAGOS
-10402;Futaleufú;10; REGIÓN DE LOS LAGOS
-10403;Hualaihue;10; REGIÓN DE LOS LAGOS
-10404;Palena;10; REGIÓN DE LOS LAGOS
-11101;Coihaique;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11102;Lago Verde;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11201;Aisén;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11202;Puerto Cisnes;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11203;Guaitecas;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11301;Cochrane;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11302;Ohiggins;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11303;Tortel;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11401;Chile Chico;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-11402;Río Ibáñez;11;REGIÓN AISÉN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO
-12101;Punta Arenas;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12102;Laguna Blanca;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12103;Río Verde;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12104;San Gregorio;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12201;Cabo de Hornos;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12301;Porvenir;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12302;Primavera;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12303;Timaukel;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12401;Puerto Natales;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-12402;Torres del Paine;12;REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
-13101;Santiago;13;REGIÓN METROPOLITANA DE SANTIAGO
-13102;Cerrillos;13;REGIÓN METROPOLITANA DE SANTIAGO
-13103;Cerro Navia;13;REGIÓN METROPOLITANA DE SANTIAGO
-13104;Conchalí;13;REGIÓN METROPOLITANA DE SANTIAGO
-13105;El Bosque;13;REGIÓN METROPOLITANA DE SANTIAGO
-13106;Estación Central;13;REGIÓN METROPOLITANA DE SANTIAGO
-13107;Huechuraba;13;REGIÓN METROPOLITANA DE SANTIAGO
-13108;Independencia;13;REGIÓN METROPOLITANA DE SANTIAGO
-13109;La Cisterna;13;REGIÓN METROPOLITANA DE SANTIAGO
-13110;La Florida;13;REGIÓN METROPOLITANA DE SANTIAGO
-13111;La Granja;13;REGIÓN METROPOLITANA DE SANTIAGO
-13112;La Pintana;13;REGIÓN METROPOLITANA DE SANTIAGO
-13113;La Reina;13;REGIÓN METROPOLITANA DE SANTIAGO
-13114;Las Condes;13;REGIÓN METROPOLITANA DE SANTIAGO
-13115;Lo Barnechea;13;REGIÓN METROPOLITANA DE SANTIAGO
-13116;Lo Espejo;13;REGIÓN METROPOLITANA DE SANTIAGO
-13117;Lo Prado;13;REGIÓN METROPOLITANA DE SANTIAGO
-13118;Macul;13;REGIÓN METROPOLITANA DE SANTIAGO
-13119;Maipú;13;REGIÓN METROPOLITANA DE SANTIAGO
-13120;Ñuñoa;13;REGIÓN METROPOLITANA DE SANTIAGO
-13121;Pedro Aguirre Cerda;13;REGIÓN METROPOLITANA DE SANTIAGO
-13122;Peñalolén;13;REGIÓN METROPOLITANA DE SANTIAGO
-13123;Providencia;13;REGIÓN METROPOLITANA DE SANTIAGO
-13124;Pudahuel;13;REGIÓN METROPOLITANA DE SANTIAGO
-13125;Quilicura;13;REGIÓN METROPOLITANA DE SANTIAGO
-13126;Quinta Normal;13;REGIÓN METROPOLITANA DE SANTIAGO
-13127;Recoleta;13;REGIÓN METROPOLITANA DE SANTIAGO
-13128;Renca;13;REGIÓN METROPOLITANA DE SANTIAGO
-13129;San Joaquín;13;REGIÓN METROPOLITANA DE SANTIAGO
-13130;San Miguel;13;REGIÓN METROPOLITANA DE SANTIAGO
-13131;San Ramón;13;REGIÓN METROPOLITANA DE SANTIAGO
-13132;Vitacura;13;REGIÓN METROPOLITANA DE SANTIAGO
-13201;Puente Alto;13;REGIÓN METROPOLITANA DE SANTIAGO
-13202;Pirque;13;REGIÓN METROPOLITANA DE SANTIAGO
-13203;San José de Maipo;13;REGIÓN METROPOLITANA DE SANTIAGO
-13301;Colina;13;REGIÓN METROPOLITANA DE SANTIAGO
-13302;Lampa;13;REGIÓN METROPOLITANA DE SANTIAGO
-13303;Til til;13;REGIÓN METROPOLITANA DE SANTIAGO
-13401;San Bernardo;13;REGIÓN METROPOLITANA DE SANTIAGO
-13402;Buin;13;REGIÓN METROPOLITANA DE SANTIAGO
-13403;Calera de Tango;13;REGIÓN METROPOLITANA DE SANTIAGO
-13404;Paine;13;REGIÓN METROPOLITANA DE SANTIAGO
-13501;Melipilla;13;REGIÓN METROPOLITANA DE SANTIAGO
-13502;Alhué;13;REGIÓN METROPOLITANA DE SANTIAGO
-13503;Curacaví;13;REGIÓN METROPOLITANA DE SANTIAGO
-13504;María Pinto;13;REGIÓN METROPOLITANA DE SANTIAGO
-13505;San Pedro;13;REGIÓN METROPOLITANA DE SANTIAGO
-13601;Talagante;13;REGIÓN METROPOLITANA DE SANTIAGO
-13602;El Monte;13;REGIÓN METROPOLITANA DE SANTIAGO
-13603;Isla de Maipo;13;REGIÓN METROPOLITANA DE SANTIAGO
-13604;Padre Hurtado;13;REGIÓN METROPOLITANA DE SANTIAGO
-13605;Peñaflor;13;REGIÓN METROPOLITANA DE SANTIAGO
-14101;Valdivia;14; REGIÓN DE LOS RÍOS
-14102;Corral;14; REGIÓN DE LOS RÍOS
-14103;Lanco;14; REGIÓN DE LOS RÍOS
-14104;Los Lagos;14; REGIÓN DE LOS RÍOS
-14105;Máfil;14; REGIÓN DE LOS RÍOS
-14106;Mariquina;14; REGIÓN DE LOS RÍOS
-14107;Paillaco;14; REGIÓN DE LOS RÍOS
-14108;Panguipulli;14; REGIÓN DE LOS RÍOS
-14201;La Unión;14; REGIÓN DE LOS RÍOS
-14202;Futrono;14; REGIÓN DE LOS RÍOS
-14203;Lago Ranco;14; REGIÓN DE LOS RÍOS
-14204;Río Bueno;14; REGIÓN DE LOS RÍOS
-15101;Arica;15;ARICA Y PARINACOTA
-15102;Camarones;15;ARICA Y PARINACOTA
-15201;Putre;15;ARICA Y PARINACOTA
-15202;General Lagos;15;ARICA Y PARINACOTA
+﻿Código Comuna;Nombre Comuna;Código Región;Nombre Región
+1101;Iquique;1;Tarapacá
+1107;Alto Hospicio;1;Tarapacá
+1401;Pozo Almonte;1;Tarapacá
+1402;Camiña;1;Tarapacá
+1403;Colchane;1;Tarapacá
+1404;Huara;1;Tarapacá
+1405;Pica;1;Tarapacá
+2101;Antofagasta;2;Antofagasta
+2102;Mejillones;2;Antofagasta
+2103;Sierra Gorda;2;Antofagasta
+2104;Taltal;2;Antofagasta
+2201;Calama;2;Antofagasta
+2202;Ollague;2;Antofagasta
+2203;San Pedro de Atacama;2;Antofagasta
+2301;Tocopilla;2;Antofagasta
+2302;María Elena;2;Antofagasta
+3101;Copiapó;3;Atacama
+3102;Caldera;3;Atacama
+3103;Tierra Amarilla;3;Atacama
+3201;Chañaral;3;Atacama
+3202;Diego de Almagro;3;Atacama
+3301;Vallenar;3;Atacama
+3302;Alto del Carmen;3;Atacama
+3303;Freirina;3;Atacama
+3304;Huasco;3;Atacama
+4101;La Serena;4;Coquimbo
+4102;Coquimbo;4;Coquimbo
+4103;Andacollo;4;Coquimbo
+4104;La Higuera;4;Coquimbo
+4105;Paihuano;4;Coquimbo
+4106;Vicuña;4;Coquimbo
+4201;Illapel;4;Coquimbo
+4202;Canela;4;Coquimbo
+4203;Los Vilos;4;Coquimbo
+4204;Salamanca;4;Coquimbo
+4301;Ovalle;4;Coquimbo
+4302;Combarbalá;4;Coquimbo
+4303;Monte Patria;4;Coquimbo
+4304;Punitaqui;4;Coquimbo
+4305;Río Hurtado;4;Coquimbo
+5101;Valparaíso;5;Valparaíso
+5102;Casablanca;5;Valparaíso
+5103;Concón;5;Valparaíso
+5104;Juan Fernández;5;Valparaíso
+5105;Puchuncaví;5;Valparaíso
+5107;Quintero;5;Valparaíso
+5109;Viña del Mar;5;Valparaíso
+5201;Isla de Pascua;5;Valparaíso
+5301;Los Andes;5;Valparaíso
+5302;Calle Larga;5;Valparaíso
+5303;Rinconada;5;Valparaíso
+5304;San Esteban;5;Valparaíso
+5401;La Ligua;5;Valparaíso
+5402;Cabildo;5;Valparaíso
+5403;Papudo;5;Valparaíso
+5404;Petorca;5;Valparaíso
+5405;Zapallar;5;Valparaíso
+5501;Quillota;5;Valparaíso
+5502;Calera;5;Valparaíso
+5503;Hijuelas;5;Valparaíso
+5504;La Cruz;5;Valparaíso
+5506;Nogales;5;Valparaíso
+5601;San Antonio;5;Valparaíso
+5602;Algarrobo;5;Valparaíso
+5603;Cartagena;5;Valparaíso
+5604;El Quisco;5;Valparaíso
+5605;El Tabo;5;Valparaíso
+5606;Santo Domingo;5;Valparaíso
+5701;San Felipe;5;Valparaíso
+5702;Catemu;5;Valparaíso
+5703;Llay Llay;5;Valparaíso
+5704;Panquehue;5;Valparaíso
+5705;Putaendo;5;Valparaíso
+5706;Santa María;5;Valparaíso
+5801;Quilpué;5;Valparaíso
+5802;Limache;5;Valparaíso
+5803;Olmué;5;Valparaíso
+5804;Villa Alemana;5;Valparaíso
+6101;Rancagua;6;O'Higgins
+6102;Codegua;6;O'Higgins
+6103;Coinco;6;O'Higgins
+6104;Coltauco;6;O'Higgins
+6105;Doñihue;6;O'Higgins
+6106;Graneros;6;O'Higgins
+6107;Las Cabras;6;O'Higgins
+6108;Machalí;6;O'Higgins
+6109;Malloa;6;O'Higgins
+6110;Mostazal;6;O'Higgins
+6111;Olivar;6;O'Higgins
+6112;Peumo;6;O'Higgins
+6113;Pichidegua;6;O'Higgins
+6114;Quinta de Tilcoco;6;O'Higgins
+6115;Rengo;6;O'Higgins
+6116;Requinoa;6;O'Higgins
+6117;San Vicente;6;O'Higgins
+6201;Pichilemu;6;O'Higgins
+6202;La Estrella;6;O'Higgins
+6203;Litueche;6;O'Higgins
+6204;Marchihue;6;O'Higgins
+6205;Navidad;6;O'Higgins
+6206;Paredones;6;O'Higgins
+6301;San Fernando;6;O'Higgins
+6302;Chépica;6;O'Higgins
+6303;Chimbarongo;6;O'Higgins
+6304;Lolol;6;O'Higgins
+6305;Nancagua;6;O'Higgins
+6306;Palmilla;6;O'Higgins
+6307;Peralillo;6;O'Higgins
+6308;Placilla;6;O'Higgins
+6309;Pumanque;6;O'Higgins
+6310;Santa Cruz;6;O'Higgins
+7101;Talca;7;Maule
+7102;Constitución;7;Maule
+7103;Curepto;7;Maule
+7104;Empedrado;7;Maule
+7105;Maule;7;Maule
+7106;Pelarco;7;Maule
+7107;Pencahue;7;Maule
+7108;Río Claro;7;Maule
+7109;San Clemente;7;Maule
+7110;San Rafael;7;Maule
+7201;Cauquenes;7;Maule
+7202;Chanco;7;Maule
+7203;Pelluhue;7;Maule
+7301;Curicó;7;Maule
+7302;Hualañe;7;Maule
+7303;Licantén;7;Maule
+7304;Molina;7;Maule
+7305;Rauco;7;Maule
+7306;Romeral;7;Maule
+7307;Sagrada Familia;7;Maule
+7308;Teno;7;Maule
+7309;Vichuquén;7;Maule
+7401;Linares;7;Maule
+7402;Colbún;7;Maule
+7403;Longaví;7;Maule
+7404;Parral;7;Maule
+7405;Retiro;7;Maule
+7406;San Javier;7;Maule
+7407;Villa Alegre;7;Maule
+7408;Yerbas Buenas;7;Maule
+8101;Concepción;8;Biobío
+8102;Coronel;8;Biobío
+8103;Chiguayante;8;Biobío
+8104;Florida;8;Biobío
+8105;Hualqui;8;Biobío
+8106;Lota;8;Biobío
+8107;Penco;8;Biobío
+8108;San Pedro De La Paz;8;Biobío
+8109;Santa Juana;8;Biobío
+8110;Talcahuano;8;Biobío
+8111;Tomé;8;Biobío
+8112;Hualpén;8;Biobío
+8201;Lebu;8;Biobío
+8202;Arauco;8;Biobío
+8203;Cañete;8;Biobío
+8204;Contulmo;8;Biobío
+8205;Curanilahue;8;Biobío
+8206;Los Alamos;8;Biobío
+8207;Tirua;8;Biobío
+8301;Los Angeles;8;Biobío
+8302;Antuco;8;Biobío
+8303;Cabrero;8;Biobío
+8304;Laja;8;Biobío
+8305;Mulchén;8;Biobío
+8306;Nacimiento;8;Biobío
+8307;Negrete;8;Biobío
+8308;Quilaco;8;Biobío
+8309;Quilleco;8;Biobío
+8310;San Rosendo;8;Biobío
+8311;Santa Bárbara;8;Biobío
+8312;Tucapel;8;Biobío
+8313;Yumbel;8;Biobío
+8314;Alto Biobío;8;Biobío
+8401;Chillán;8;Biobío
+8402;Bulnes;8;Biobío
+8403;Cobquecura;8;Biobío
+8404;Coelemu;8;Biobío
+8405;Coihueco;8;Biobío
+8406;Chillán Viejo;8;Biobío
+8407;El Carmen;8;Biobío
+8408;Ninhue;8;Biobío
+8409;Ñiquén;8;Biobío
+8410;Pemuco;8;Biobío
+8411;Pinto;8;Biobío
+8412;Portezuelo;8;Biobío
+8413;Quillón;8;Biobío
+8414;Quirihue;8;Biobío
+8415;Ranquil;8;Biobío
+8416;San Carlos;8;Biobío
+8417;San Fabián;8;Biobío
+8418;San Ignacio;8;Biobío
+8419;San Nicolás;8;Biobío
+8420;Trehuaco;8;Biobío
+8421;Yungay;8;Biobío
+9101;Temuco;9;La Araucanía
+9102;Carahue;9;La Araucanía
+9103;Cunco;9;La Araucanía
+9104;Curarrehue;9;La Araucanía
+9105;Freire;9;La Araucanía
+9106;Galvarino;9;La Araucanía
+9107;Gorbea;9;La Araucanía
+9108;Lautaro;9;La Araucanía
+9109;Loncoche;9;La Araucanía
+9110;Melipeuco;9;La Araucanía
+9111;Nueva Imperial;9;La Araucanía
+9112;Padre Las Casas;9;La Araucanía
+9113;Perquenco;9;La Araucanía
+9114;Pitrufquén;9;La Araucanía
+9115;Pucón;9;La Araucanía
+9116;Puerto Saavedra;9;La Araucanía
+9117;Teodoro Schmidt;9;La Araucanía
+9118;Toltén;9;La Araucanía
+9119;Vilcún;9;La Araucanía
+9120;Villarrica;9;La Araucanía
+9121;Cholchol;9;La Araucanía
+9201;Angol;9;La Araucanía
+9202;Collipulli;9;La Araucanía
+9203;Curacautín;9;La Araucanía
+9204;Ercilla;9;La Araucanía
+9205;Lonquimay;9;La Araucanía
+9206;Los Sauces;9;La Araucanía
+9207;Lumaco;9;La Araucanía
+9208;Purén;9;La Araucanía
+9209;Renaico;9;La Araucanía
+9210;Traiguén;9;La Araucanía
+9211;Victoria;9;La Araucanía
+10101;Puerto Montt;10;Los Lagos
+10102;Calbuco;10;Los Lagos
+10103;Cochamó;10;Los Lagos
+10104;Fresia;10;Los Lagos
+10105;Frutillar;10;Los Lagos
+10106;Los Muermos;10;Los Lagos
+10107;Llanquihue;10;Los Lagos
+10108;Maullín;10;Los Lagos
+10109;Puerto Varas;10;Los Lagos
+10201;Castro;10;Los Lagos
+10202;Ancud;10;Los Lagos
+10203;Chonchi;10;Los Lagos
+10204;Curaco de Vélez;10;Los Lagos
+10205;Dalcahue;10;Los Lagos
+10206;Puqueldón;10;Los Lagos
+10207;Queilén;10;Los Lagos
+10208;Quellón;10;Los Lagos
+10209;Quemchi;10;Los Lagos
+10210;Quinchao;10;Los Lagos
+10301;Osorno;10;Los Lagos
+10302;Puerto Octay;10;Los Lagos
+10303;Purranque;10;Los Lagos
+10304;Puyehue;10;Los Lagos
+10305;Río Negro;10;Los Lagos
+10306;San Juan de la Costa;10;Los Lagos
+10307;San Pablo;10;Los Lagos
+10401;Chaitén;10;Los Lagos
+10402;Futaleufú;10;Los Lagos
+10403;Hualaihue;10;Los Lagos
+10404;Palena;10;Los Lagos
+11101;Coihaique;11;Aysén
+11102;Lago Verde;11;Aysén
+11201;Aisén;11;Aysén
+11202;Puerto Cisnes;11;Aysén
+11203;Guaitecas;11;Aysén
+11301;Cochrane;11;Aysén
+11302;Ohiggins;11;Aysén
+11303;Tortel;11;Aysén
+11401;Chile Chico;11;Aysén
+11402;Río Ibáñez;11;Aysén
+12101;Punta Arenas;12;Magallanes
+12102;Laguna Blanca;12;Magallanes
+12103;Río Verde;12;Magallanes
+12104;San Gregorio;12;Magallanes
+12201;Cabo de Hornos;12;Magallanes
+12301;Porvenir;12;Magallanes
+12302;Primavera;12;Magallanes
+12303;Timaukel;12;Magallanes
+12401;Puerto Natales;12;Magallanes
+12402;Torres del Paine;12;Magallanes
+13101;Santiago;13;Metropolitana
+13102;Cerrillos;13;Metropolitana
+13103;Cerro Navia;13;Metropolitana
+13104;Conchalí;13;Metropolitana
+13105;El Bosque;13;Metropolitana
+13106;Estación Central;13;Metropolitana
+13107;Huechuraba;13;Metropolitana
+13108;Independencia;13;Metropolitana
+13109;La Cisterna;13;Metropolitana
+13110;La Florida;13;Metropolitana
+13111;La Granja;13;Metropolitana
+13112;La Pintana;13;Metropolitana
+13113;La Reina;13;Metropolitana
+13114;Las Condes;13;Metropolitana
+13115;Lo Barnechea;13;Metropolitana
+13116;Lo Espejo;13;Metropolitana
+13117;Lo Prado;13;Metropolitana
+13118;Macul;13;Metropolitana
+13119;Maipú;13;Metropolitana
+13120;Ñuñoa;13;Metropolitana
+13121;Pedro Aguirre Cerda;13;Metropolitana
+13122;Peñalolén;13;Metropolitana
+13123;Providencia;13;Metropolitana
+13124;Pudahuel;13;Metropolitana
+13125;Quilicura;13;Metropolitana
+13126;Quinta Normal;13;Metropolitana
+13127;Recoleta;13;Metropolitana
+13128;Renca;13;Metropolitana
+13129;San Joaquín;13;Metropolitana
+13130;San Miguel;13;Metropolitana
+13131;San Ramón;13;Metropolitana
+13132;Vitacura;13;Metropolitana
+13201;Puente Alto;13;Metropolitana
+13202;Pirque;13;Metropolitana
+13203;San José de Maipo;13;Metropolitana
+13301;Colina;13;Metropolitana
+13302;Lampa;13;Metropolitana
+13303;Til til;13;Metropolitana
+13401;San Bernardo;13;Metropolitana
+13402;Buin;13;Metropolitana
+13403;Calera de Tango;13;Metropolitana
+13404;Paine;13;Metropolitana
+13501;Melipilla;13;Metropolitana
+13502;Alhué;13;Metropolitana
+13503;Curacaví;13;Metropolitana
+13504;María Pinto;13;Metropolitana
+13505;San Pedro;13;Metropolitana
+13601;Talagante;13;Metropolitana
+13602;El Monte;13;Metropolitana
+13603;Isla de Maipo;13;Metropolitana
+13604;Padre Hurtado;13;Metropolitana
+13605;Peñaflor;13;Metropolitana
+14101;Valdivia;14;Los Ríos
+14102;Corral;14;Los Ríos
+14103;Lanco;14;Los Ríos
+14104;Los Lagos;14;Los Ríos
+14105;Máfil;14;Los Ríos
+14106;Mariquina;14;Los Ríos
+14107;Paillaco;14;Los Ríos
+14108;Panguipulli;14;Los Ríos
+14201;La Unión;14;Los Ríos
+14202;Futrono;14;Los Ríos
+14203;Lago Ranco;14;Los Ríos
+14204;Río Bueno;14;Los Ríos
+15101;Arica;15;Arica y Parinacota
+15102;Camarones;15;Arica y Parinacota
+15201;Putre;15;Arica y Parinacota
+15202;General Lagos;15;Arica y Parinacota
