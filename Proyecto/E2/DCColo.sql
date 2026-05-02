@@ -153,7 +153,7 @@ CREATE TABLE evento (
 CREATE TABLE contacto_empresa (
   id_contacto SERIAL PRIMARY KEY,
   rut_empresa VARCHAR(15) REFERENCES empresa(rut_empresa),
-  run_persona VARCHAR(12) REFERENCES persona(run),
+  run_persona VARCHAR(12) ,
   cargo VARCHAR(50)
 );
 
