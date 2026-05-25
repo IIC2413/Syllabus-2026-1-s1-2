@@ -79,7 +79,7 @@ CREATE TABLE IF NOT EXISTS public.lugar
 
 CREATE TABLE IF NOT EXISTS public.membresia
 (
-    id_socio integer NOT NULL DEFAULT nextval('membresia_id_membresia_seq'::regclass),
+    id_socio integer NOT NULL ,
     id_socio_titular integer,
     anio integer NOT NULL,
     fecha_inicio date NOT NULL,
