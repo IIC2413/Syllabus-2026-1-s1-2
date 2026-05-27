@@ -103,17 +103,17 @@ Fecha                  | Hora | Evaluación
 **19 - 06 - 2026** |  17:30   | I2
 **08 - 07 - 2026** |  13:30  | Examen
 
-### Proyecto (tentativo)
+### Proyecto
 
 Fecha                  | Evaluación
 -----------------------|------------
 12 - 03 - 2026 (J) | Enunciado General
 01 - 04 - 2026 (W) | Enunciado E1
 20 - 04 - 2026 (L) | Entrega E1
-23 - 04 - 2026 (J) | Enunciado E2
-11 - 05 - 2026 (L) | Entrega E2
-14 - 05 - 2026 (J) | Enunciado E3
-08- 06 - 2026 (L) | Entrega E3
+28 - 04 - 2026 (J) | Enunciado E2
+12 - 05 - 2026 (L) | Entrega E2
+25 - 05 - 2026 (J) | Enunciado E3
+11- 06 - 2026 (L) | Entrega E3
 24 - 06 - 2026 (W) | Prueba Proyecto 
 
 
