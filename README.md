@@ -12,7 +12,7 @@
     - [Bibliografía](#bibliografía)
   - [Calendario Evaluaciones](#calendario-evaluaciones)
     - [Cátedra](#cátedra)
-    - [Proyecto (tentativo)](#proyecto-tentativo)
+    - [Proyecto](#proyecto-tentativo)
     - [Ayudantías (tentativo)](#ayudantías-tentativo)
   - [Evaluación](#evaluación)
     - [Aprobación del curso](#aprobación-del-curso)
