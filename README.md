@@ -107,14 +107,14 @@ Fecha                  | Hora | Evaluación
 
 Fecha                  | Evaluación
 -----------------------|------------
-12 - 03 - 2026 (J) | Enunciado General
-01 - 04 - 2026 (W) | Enunciado E1
-20 - 04 - 2026 (L) | Entrega E1
-28 - 04 - 2026 (J) | Enunciado E2
-12 - 05 - 2026 (L) | Entrega E2
-25 - 05 - 2026 (J) | Enunciado E3
-11- 06 - 2026 (L) | Entrega E3
-24 - 06 - 2026 (W) | Prueba Proyecto 
+12 - 03 - 2026 | Enunciado General
+01 - 04 - 2026 | Enunciado E1
+20 - 04 - 2026 | Entrega E1
+28 - 04 - 2026 | Enunciado E2
+12 - 05 - 2026 | Entrega E2
+25 - 05 - 2026 | Enunciado E3
+11- 06 - 2026 | Entrega E3
+24 - 06 - 2026 | Prueba Proyecto 
 
 
 ### Ayudantías (tentativo)
