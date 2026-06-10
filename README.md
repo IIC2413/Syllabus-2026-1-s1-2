@@ -131,7 +131,7 @@ Fecha                  | # Ayudantía | Tema
 15 - 05 - 2026 (V) | 9 | PHP + Web
 29 - 05 - 2026 (V) | 10 | Por definir
 05 - 06 - 2026 (V) | 11 | Por definir
-10 - 06 - 2026 (W) | 12 | Repaso I2
+17 - 06 - 2026 (W) | 12 | Repaso I2
 
 ---
 
